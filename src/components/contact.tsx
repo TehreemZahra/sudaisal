@@ -113,7 +113,7 @@ export const ContactPage = () => {
                     <Phone className="h-6 w-6 mr-4 text-yellow-300" />
                     <div>
                       <div className="font-semibold">Phone</div>
-                      <div className="text-blue-100">+1 (555) 123-4567</div>
+                      <div className="text-blue-100">+92 337-9807794</div>
                     </div>
                   </div>
                   <div className="flex items-center">
@@ -121,7 +121,7 @@ export const ContactPage = () => {
                     <div>
                       <div className="font-semibold">Email</div>
                       <div className="text-blue-100">
-                        info@generalordersupplier.com
+                        sadiyasalitariq@gmail.com
                       </div>
                     </div>
                   </div>
@@ -134,7 +134,7 @@ export const ContactPage = () => {
                         <br />
                         Suite 567, Business District
                         <br />
-                        New York, NY 10001
+                        Rawalpindi, 44000
                       </div>
                     </div>
                   </div>
