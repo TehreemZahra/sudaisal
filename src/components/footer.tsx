@@ -18,11 +18,11 @@ const Footer = () => {
               <div className="space-y-2 text-gray-400">
                 <div className="flex items-center">
                   <Phone className="h-4 w-4 mr-2" />
-                  +1 (555) 123-4567
+                  +92 337-9807794
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-4 w-4 mr-2" />
-                  info@alsudaisenterprise.com
+                  sadiyasalitariq@gmail.com
                 </div>
               </div>
             </div>

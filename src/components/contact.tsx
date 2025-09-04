@@ -130,7 +130,7 @@ export const ContactPage = () => {
                     <div>
                       <div className="font-semibold">Address</div>
                       <div className="text-blue-100">
-                        1234 Business Avenue
+                        Business Avenue
                         <br />
                         Suite 567, Business District
                         <br />
